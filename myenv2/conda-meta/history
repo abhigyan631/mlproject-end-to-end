@@ -1,5 +1,5 @@
-==> 2024-01-23 10:36:40 <==
-# cmd: C:\Users\1508\AppData\Local\anaconda30\Scripts\conda-script.py create -p myenv1 python==3.10 -y
+==> 2024-01-31 21:39:29 <==
+# cmd: C:\Users\1508\AppData\Local\anaconda30\Scripts\conda-script.py create -p myenv2 python==3.10 -y
 # conda version: 23.3.1
 +defaults/noarch::tzdata-2023d-h04d1e81_0
 +defaults/win-64::bzip2-1.0.8-he774522_0
